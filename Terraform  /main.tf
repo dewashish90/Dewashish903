@@ -15,3 +15,5 @@ resource "azurerm_api_management" "example" {
 change1
 
 change2
+
+change3
