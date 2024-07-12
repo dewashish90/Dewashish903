@@ -12,3 +12,6 @@ resource "azurerm_api_management" "example" {
 
   sku_name = "Developer_1"
 }
+change1
+
+ch
